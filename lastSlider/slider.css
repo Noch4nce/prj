@@ -1,0 +1,9 @@
+.sliderMain {
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+.sliderMain img {
+    width: 355px;
+    height: 259px;
+}
